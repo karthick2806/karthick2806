@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthick2806
+- 👋 Hey!! Karthick here
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Web development | python 
 - 📫 this is How to reach me karthik060503@gmail.com
