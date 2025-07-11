@@ -1,7 +1,7 @@
 - 👋 Hey!! Karthick here
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Web development
-- 📫 this is How to reach me karthik060503@gmail.com
+- 📫 this is How to reach me karthick280603@gmail.com
 - 😄 Pronouns:(he/him)
   
 
